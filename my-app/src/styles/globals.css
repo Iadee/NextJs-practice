@@ -98,8 +98,10 @@ nav {
   display: flex;
   align-items: center;
 }
+
 nav li {
   list-style: none;
+  width: 300px;
 }
 a {
   color: inherit;

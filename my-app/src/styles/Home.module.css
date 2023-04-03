@@ -7,8 +7,8 @@
   min-height: 100vh;
 }
 
-.main-nav {
-  background-color: red;
+.nav-div {
+  background-color: lightcoral;
 }
 .description {
   display: inherit;
