@@ -5,6 +5,7 @@ import styles from "@/styles/Home.module.css";
 import Navbar from "./Navbar";
 import Heading from "./Heading";
 import Footer from "./Footer";
+import Card from "./Card";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -21,6 +22,9 @@ export default function Home() {
       <main className={styles.main}>
         <Navbar />
         <Heading />
+        <Card />
+        <Card />
+        <Card />
         <Footer />
       </main>
     </>
