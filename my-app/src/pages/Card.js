@@ -1,4 +1,4 @@
-export default function Info() {
+export default function Card() {
   return (
     <div>
       <h1>Card info goes here...</h1>
