@@ -4,7 +4,7 @@ export default function Heading() {
       <h1>This is the main page</h1>
       <p>Text goes here</p>
       <p>will be using props soon </p>
-      <p>work in progres......</p>
+      <p>the following texts uses props!......</p>
     </div>
   );
 }

@@ -22,9 +22,9 @@ export default function Home() {
       <main className={styles.main}>
         <Navbar />
         <Heading />
-        <Card />
-        <Card />
-        <Card />
+        <Card name="Joe this is a prop" number="prop used here" />
+        <Card name="Jane this is a prop too" number="prop used here again" />
+
         <Footer />
       </main>
     </>
